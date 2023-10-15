@@ -9,14 +9,14 @@
 ## how to run 
 
 
-'''bash
->conda crate -n telebot python=3.7
-'''
+```bash
+conda crate -n telebot python=3.7
+```
 
-'''bash
+```bash
 conda activate telebot
-'''
+```
 
-'''bash
+```bash
 pip install -r requirments.txt
-'''
+```
